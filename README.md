@@ -1,12 +1,16 @@
 <h1>Failed Business Continuity Plans </h1>
-For demonstration purposes I have a fictional tech company similar to Apple and how they may make a Business Continuity Plan. This fictional Tech company is called Kiwi and it is a direct competitor to Apple, Google, and Samsung
 <h2>Description</h2>
-This lab will explain Business Continuity Plans amd for demonstration purposes I have a fictional tech company similar to Apple and how they may make a Business Continuity Plan. This fictional Tech company is called Kiwi and it is a direct competitor to Apple, Google, and Samsung. <br>
+
+Here in this report we will be evaulating four Business Continiuty Plans for comapnies. We will examine the cause, results and lastly evaluat what these companies could of improve in recreating this Business Continity Plan. 
+ <br>
 
 
 
-<h2>What is a Business Continuity Plan?</h2>
-A business continuity plan (BCP) is a system of prevention and recovery from potential threats to a company. The plan ensures that personnel and assets are protected and are able to function quickly in the event of a disaster. <br>
+<h2>Background</h2>
+In my research I have found two interesting facts as it relates to Business Continuity plans. 
+1. According to the Federal Emergency Management Agency (FEMA) around  40% small to mid size businesses do not reopen after a natural disaster, and an additional 25% reopen but fail within a year.
+2. According to Spiceworks study, 95 % of responders said they have Diaster Recovery Plan (Business Continuity Plan) in place but 23% have not tested this Plan out. 
+The best way to learn something is to learn from other mistakes and below we will look at 4 corporations that made a mistake in there Busienss Continuty Plan and fix it <br>
 
 <br />
 
