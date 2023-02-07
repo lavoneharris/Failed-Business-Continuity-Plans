@@ -7,9 +7,9 @@ Here in this report we will be evaluating three Business Continuity Plans of org
 
 
 <h2>Background</h2>
-In my research I have found two interesting facts as it relates to Business Continuity plans. 
-1. According to the Federal Emergency Management Agency (FEMA) around  40% small to mid size businesses do not reopen after a natural disaster, and an additional 25% reopen but fail within a year. <br>
-2. According to a Spiceworks study, 95 % of responders said they have Disaster Recovery Plan (Business Continuity Plan) in place but 23% have not tested this Plan out. 
+In my research I have found two interesting facts as it relates to Business Continuity plans. <br>
+1. According to the Federal Emergency Management Agency (FEMA) around  40% small to mid size businesses do not reopen after a natural disaster, and an additional 25% reopen but fail within a year. <br><br>
+2. According to a Spiceworks study, 95 % of responders said they have Disaster Recovery Plan (Business Continuity Plan) in place but 23% have not tested this Plan out. <br><br>
 The best way to learn something is to learn from other mistakes and below we will look at 3 corporations that have made a mistake in their Business Continuity Plan and fix it. In order to fully appreciate the value of an effective business continuity plan, it’s helpful to take a look at where real businesses went wrong. <br>
 
 <br />
