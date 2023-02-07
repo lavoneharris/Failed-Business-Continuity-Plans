@@ -32,7 +32,7 @@ Improvement: The California DMW should have tested the Business Continuity Plan 
 Organization Background: Breazeale, Sachse & Wilson LLP is considered one of the oldest law firms in the Louisiana having approximately 70 employed attorneys.<br> <br>
 Cause: All the way back in 2005 during Hurricane Katrina staff members were unable to  access client information or business data was a result of the hurricane. This was because they failed to have a backup strategy in place and all THE information staff members needed to access were on site hard copies. The firm was forced to stop its mission critical servers and had no plan to execute that would be able to contact clients and assure them the firm was still operational. Fortunately, the firm did not become apart of the Federal Emergency Management Agency (FEMA) statistic of 40% small to mid size businesses not reopening after a natural disaster and by luck remains a thriving business with backups and alternate communication strategies today.<br> <br>
 Cost: Reputation, Clients, and Revenue  <br> <br>
-Improvement: Breazeale, Sachse & Wilson LLP going forward to survive (which they did) would have to address several things. 
+Improvement: Breazeale, Sachse & Wilson LLP going forward to survive (which they did) would have to address several things. <br>
 1. Having a Risk Assessments <br> 
 2. Identifying Priorities <br> 
 3. Alternative Communication Strategies  <br> 
