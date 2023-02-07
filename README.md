@@ -19,7 +19,7 @@ The best way to learn something is to learn from other mistakes and below we wil
 <strong> Organization Background:</strong>  Delta Air Lines is one of the major airlines of the United States which operates over 5,400 flights daily and serves 325 destinations in 52 countries on six continents.<br> <br>
 <strong> Cause:</strong>  In 2016 Delta had a IT infrastructure outage, there backups were greatly delayed which is estimated to have cost Delta their reputation but also a revenue loss of 100 Million dollars. <br> <br>
 <strong> Cost:</strong>  $100 million in Revenue and hit to reputation.<br> <br>
-<strong> Improvement:</strong>  Delta should of mainly ensured they had a effective data recovery method in place that was responsive. They could tested the plan monthly to ensure the backups worked and that the backups executed in a acceptable time. <br> <br>
+<strong> Improvement:</strong>  Delta should have mainly ensured they had an effective data recovery method in place that was responsive. They could tested the plan monthly to ensure the backups worked and that the backups executed in an acceptable time. <br> <br>
 
 
 <h2>2. State of California DMV (Department of Motor Vehicles) </h2>
